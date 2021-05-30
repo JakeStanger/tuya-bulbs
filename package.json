@@ -12,7 +12,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "tuyapi": "codetheweb/tuyapi",
-    "ws": "^7.3.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@types/eslint": "^6.8.1",
